@@ -248,9 +248,6 @@ const Reports = () => {
 
 	return (
 		<div className="p-6 ml-[17%] mt-[6%] w-[82%] bg-gray-100 min-h-screen">
-			<h1 className="text-3xl font-semibold text-gray-800 mb-6">
-				Reports Dashboard
-			</h1>
 			<div className="mb-4 flex space-x-4">
 				<input
 					type="text"
